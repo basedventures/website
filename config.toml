@@ -6,13 +6,13 @@ paginate = 5
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+  contentTypeName = "post"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "green"
+  themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 4
 
   # show selector to switch language
   showLanguageSelector = false
@@ -41,8 +41,8 @@ paginate = 5
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = ""
-  site = ""
+  creator = "@BasedVentures"
+  site = "@BasedVentures"
 
 [languages]
   [languages.en]
@@ -64,17 +64,22 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
+        identifier = "post"
+        name = "Posts"
+        url = "/post"
+        weight = 1
+      [[languages.en.menu.main]]
         identifier = "portfolio"
         name = "Portfolio"
         url = "/portfolio"
-        weight = 1
+        weight = 2
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
         url = "/about"
-        weioght = 2
+        weight = 3
       [[languages.en.menu.main]]
         identifier = "contact"
         name = "Contact"
         url = "/contact"
-        weight = 3
+        weight = 4
