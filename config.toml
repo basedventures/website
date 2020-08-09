@@ -48,7 +48,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "based ventures"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "all your based are belong to us."
     owner = ""
     keywords = "venture capital, vc, finance, cryptocurrency, bitcoin, ethereum"
     copyright = "© 2020 based ventures"
