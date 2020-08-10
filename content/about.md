@@ -9,8 +9,8 @@ Based Ventures is a blockchain-focused investment firm that takes a unique appro
 
 Based Ventures是一家新加坡专注于区块链的投资公司，用独特的方法通过广泛并深入的研究来寻找尚未发现的机会。 从帮助项目提升代币经济模型到激励社区发展，我们将与这些项目并肩作战。 凭借我们在世界东、西方广泛的网络，我们有信心架起桥梁并建立强大的社区和有意义的联系。
 
-# Assets
-* [based ventures logo with background](/img/assets/bv_with_bg.jpg)
-* [based ventures logo plain black background](/img/assets/bv_black_bg.png)
-* [based ventures logo plain white background](/img/assets/bv_white_bg.png)
-* [based ventures logo transparent background](/img/assets/bv_transparent_bg.png)
+# Assets | 素材
+* [based ventures logo with background | 带背景的图标](/img/assets/bv_with_bg.jpg)
+* [based ventures logo plain black background | 纯黑背景的图标](/img/assets/bv_black_bg.png)
+* [based ventures logo plain white background | 纯白背景的图标](/img/assets/bv_white_bg.png)
+* [based ventures logo transparent background | 透明背景的图标](/img/assets/bv_transparent_bg.png)
