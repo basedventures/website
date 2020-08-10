@@ -1,25 +1,38 @@
-<form name="contact" action="https://getform.io/f/f48a806f-9ed5-4358-99c6-d2b1271093ff" method="POST">
-    <!-- Text input-->
-    <div>
-        <label for="name"></label>
-        <div>
-            <input name="name" type="text" placeholder="Name">
+<form method="post" action="https://forms.un-static.com/forms/2ee3d18fccc5563eed5f18674f11007500556b92">
+  <div class="form-group row">
+    <label for="name" class="col-4 col-form-label">Name</label>
+    <div class="col-8">
+      <div class="input-group">
+        <div class="input-group-addon">
+          <i class="fa fa-user"></i>
         </div>
+        <input id="name" name="name" placeholder="Please enter your name" type="text" required="required" class="form-control">
+      </div>
     </div>
-    <!-- Text input-->
-    <div>
-        <label for="email"></label>
-        <div>
-            <input name="email" type="email" placeholder="Email">
+  </div>
+  <div class="form-group row">
+    <label for="email" class="col-4 col-form-label">E-mail address</label>
+    <div class="col-8">
+      <div class="input-group">
+        <div class="input-group-addon">
+          <i class="fa fa-envelope"></i>
         </div>
+        <input id="email" name="email" placeholder="Your e-mail address" type="text" required="required" class="form-control">
+      </div>
     </div>
-    <!-- Textarea -->
-    <div>
-        <label for="message"></label>
-        <textarea name="Message" placeholder="Message" rows="8"></textarea>
+  </div>
+  <div class="form-group row">
+    <label for="message" class="col-4 col-form-label">Message</label>
+    <div class="col-8">
+      <textarea id="message" name="message" cols="40" rows="10" required="required" class="form-control"></textarea>
     </div>
-    <!-- Button -->
-    <div>
-        <button type="submit" value="Submit">Submit</button>
+  </div>
+  <div class="form-group row">
+    <div class="offset-4 col-8">
+      <button name="submit" type="submit" class="btn btn-primary">Send</button>
     </div>
+  </div>
+  <div class="text-center">
+    <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
+  </div>
 </form>

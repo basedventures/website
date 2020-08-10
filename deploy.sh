@@ -23,3 +23,5 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
+
+printf "\033[0;32mDone! Remember to commit and push the hugo source project too.\033[0m\n"
